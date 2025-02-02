@@ -1,7 +1,11 @@
-Geneplore AI is building the world's easiest way to use AI. We provide state of the art AIs with our Discord bot under one subscription.
+# Geneplore AI
 
-This organization is for the Discord bot and server, ChatGPT, and our experimental API where we aggregate other models so you don't have to.
+Geneplore AI is building the world's easiest way to use AI for communities, teams, and users. Access dozens of AI models under one subscription and one intuitive UI, without the hassle of managing different accounts and API schemas.
 
-Find our server here: https://geneplore.com/server
+This organization is for Geneplore AI's various projects, including our popular Discord bot, AI Chat.
+
+We have built some experimental Discord projects, a few of which we have made open-source over the years. Currently, our most popular initiatives remain closed source.
+
+Find our Discord server here: https://geneplore.com/server
 
 Add our bot here: https://geneplore.com/bot
