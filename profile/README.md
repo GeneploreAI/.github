@@ -6,6 +6,6 @@ This organization is for Geneplore AI's various projects, including our popular 
 
 We have built some experimental Discord projects, a few of which we have made open-source over the years. Currently, our most popular initiatives remain closed source.
 
-Find our Discord server here: https://geneplore.com/server
+Find our Discord server here: https://geneplore.com/discord
 
 Add our bot here: https://geneplore.com/bot
